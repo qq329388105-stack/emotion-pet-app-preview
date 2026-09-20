@@ -63,7 +63,7 @@
 
 如果你觉得某个地方温柔、顺手，或者让你困惑、没有帮助，都欢迎告诉我。你不需要分享私人经历，一句真实的使用感受就很好。
 
-**[开始体验](https://emotion-pet-app.pages.dev/) · [留下反馈](https://github.com/qq329388105-stack/emotion-pet-app-preview/issues/new/choose) · [邮件联系](mailto:329388105@qq.com)**
+**[开始体验](https://emotion-pet-app.pages.dev/) · [留下反馈](https://github.com/qq329388105-stack/emotion-pet-app-preview/issues/new/choose) · [邮件联系](mailto:qq329388105@gmail.com)**
 
 公开反馈请勿附上私人记录或备份文件；邮件会让接收方看到发件地址和邮件内容。[反馈模板](FEEDBACK.md) · [体验与隐私](https://emotion-pet-app.pages.dev/privacy)
 

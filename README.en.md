@@ -63,7 +63,7 @@ Your records stay in your current browser and are not automatically sent to me o
 
 If something feels helpful, confusing, or simply does not work for you, I would love to hear about it. You do not need to share anything personal—an honest impression is enough.
 
-**[Try the app](https://emotion-pet-app.pages.dev/) · [Share feedback](https://github.com/qq329388105-stack/emotion-pet-app-preview/issues/new/choose) · [Email me](mailto:329388105@qq.com)**
+**[Try the app](https://emotion-pet-app.pages.dev/) · [Share feedback](https://github.com/qq329388105-stack/emotion-pet-app-preview/issues/new/choose) · [Email me](mailto:qq329388105@gmail.com)**
 
 Never post private records or backup files in public feedback. Email reveals your sender address and message to the recipient. [Feedback template](FEEDBACK.md) · [Experience & privacy](https://emotion-pet-app.pages.dev/privacy)
 

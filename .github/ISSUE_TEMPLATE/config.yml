@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 在线试用 / Try the app
+    url: https://emotion-pet-app.pages.dev/
+    about: 始终使用这个固定网址；反馈也可通过网站设置发送。
+  - name: 隐私说明 / Privacy notes
+    url: https://emotion-pet-app.pages.dev/privacy
+    about: 了解本地保存、备份和产品边界。
